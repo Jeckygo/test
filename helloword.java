@@ -1,3 +1,3 @@
 public void main(String args[]){
-  peintfln("hello word");
+  printfln("hello word");
 }
